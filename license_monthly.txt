@@ -39,5 +39,5 @@ SKYMONTH-X5R9L2M6 | Aktiv: True | Bitmə tarixi: 30.11.2025
 SKYMONTH-X9R2V4M8 | Aktiv: True | Bitmə tarixi: 30.11.2025
 SKYMONTH-Y4C8M9T2 | Aktiv: True | Bitmə tarixi: 30.11.2025
 SKYMONTH-Y7C8M3T4 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-Z6H5A2N9 | Aktiv: True | Bitmə tarixi: 30.11.2025
+SKYMONTH-Z6H5A2N9 | Aktiv: False
 SKYMONTH-Z7H1A3N6 | Aktiv: False
