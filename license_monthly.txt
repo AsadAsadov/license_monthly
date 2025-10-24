@@ -1,43 +1,43 @@
 # Monthly licenses
-SKYMONTH-A3T6L1V7 | Aktiv: True | Bitmə tarixi: 23.11.2025
-SKYMONTH-A6T3L9V5 | Aktiv: True | Bitmə tarixi: 23.11.2025
-SKYMONTH-A9N2P8H3 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-C1M7T6Q8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-C8P6Q4L7 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-C9P4Q2L3 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-D2H8W7C1 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-D3K7W8T1 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-D7K8W5T6 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-DST7CVSQ | Aktiv: True | Bitmə tarixi: 23.11.2025
-SKYMONTH-E8K3W7P1 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-E9M5W7P4 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-FA6VD1MJ | Aktiv: True | Bitmə tarixi: 29.11.2025
-SKYMONTH-J4M2K8C1 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-J5M9K6C4 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-L3V6C5T9 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-L5P2N8Z4 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-L8P2N5Z7 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-M2R7Q1H8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-M4Q7W1E5 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-M8R9Q5H2 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-P1G9C3Y6 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-P7J1K4G8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-P9G4C6Y3 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-R1J3T9K8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-R8J6T3K7 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-R9J4G5L2 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-T2V1R5Q6 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-T3V5R7Q8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-TOUQ5000 | Aktiv: True | Bitmə tarixi: 23.11.2025
-SKYMONTH-U2P8L1E9 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-U5P9L7E3 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-V3N9H2E1 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-V4P3Z9E5 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-V5N1H9E2 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-X2R1V7M9 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-X5R9L2M6 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-X9R2V4M8 | Aktiv: True | Bitmə tarixi: 30.11.2025
-SKYMONTH-Y4C8M9T2 | Aktiv: True | Bitmə tarixi: 30.11.2025
+SKYMONTH-A3T6L1V7 | Aktiv: False
+SKYMONTH-A6T3L9V5 | Aktiv: False
+SKYMONTH-A9N2P8H3 | Aktiv: True | Bitmə tarixi: 24.11.2025
+SKYMONTH-C1M7T6Q8 | Aktiv: False
+SKYMONTH-C8P6Q4L7 | Aktiv: False
+SKYMONTH-C9P4Q2L3 | Aktiv: False
+SKYMONTH-D2H8W7C1 | Aktiv: False
+SKYMONTH-D3K7W8T1 | Aktiv: False
+SKYMONTH-D7K8W5T6 | Aktiv: False
+SKYMONTH-DST7CVSQ | Aktiv: False
+SKYMONTH-E8K3W7P1 | Aktiv: False
+SKYMONTH-E9M5W7P4 | Aktiv: False
+SKYMONTH-FA6VD1MJ | Aktiv: False
+SKYMONTH-J4M2K8C1 | Aktiv: False
+SKYMONTH-J5M9K6C4 | Aktiv: False
+SKYMONTH-L3V6C5T9 | Aktiv: False
+SKYMONTH-L5P2N8Z4 | Aktiv: False
+SKYMONTH-L8P2N5Z7 | Aktiv: False
+SKYMONTH-M2R7Q1H8 | Aktiv: False
+SKYMONTH-M4Q7W1E5 | Aktiv: False
+SKYMONTH-M8R9Q5H2 | Aktiv: False
+SKYMONTH-P1G9C3Y6 | Aktiv: False
+SKYMONTH-P7J1K4G8 | Aktiv: False
+SKYMONTH-P9G4C6Y3 | Aktiv: False
+SKYMONTH-R1J3T9K8 | Aktiv: False
+SKYMONTH-R8J6T3K7 | Aktiv: False
+SKYMONTH-R9J4G5L2 | Aktiv: False
+SKYMONTH-T2V1R5Q6 | Aktiv: False
+SKYMONTH-T3V5R7Q8 | Aktiv: False
+SKYMONTH-TOUQ5000 | Aktiv: False
+SKYMONTH-U2P8L1E9 | Aktiv: False
+SKYMONTH-U5P9L7E3 | Aktiv: False
+SKYMONTH-V3N9H2E1 | Aktiv: False
+SKYMONTH-V4P3Z9E5 | Aktiv: False
+SKYMONTH-V5N1H9E2 | Aktiv: False
+SKYMONTH-X2R1V7M9 | Aktiv: False
+SKYMONTH-X5R9L2M6 | Aktiv: False
+SKYMONTH-X9R2V4M8 | Aktiv: False
+SKYMONTH-Y4C8M9T2 | Aktiv: False
 SKYMONTH-Y7C8M3T4 | Aktiv: False
 SKYMONTH-Z6H5A2N9 | Aktiv: False
 SKYMONTH-Z7H1A3N6 | Aktiv: False
