@@ -1,5 +1,5 @@
 # Monthly licenses
-SKYMONTH-A6T3L9V5 | Aktiv: True | Bitmə tarixi: 24.11.2025
+SKYMONTH-A6T3L9V5 | Aktiv: True | Bitmə tarixi: 04.12.2025
 SKYMONTH-A9N2P8H3 | Aktiv: False
 SKYMONTH-C1M7T6Q8 | Aktiv: False
 SKYMONTH-C8P6Q4L7 | Aktiv: False
