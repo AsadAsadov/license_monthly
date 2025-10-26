@@ -43,5 +43,5 @@ SKYMONTH-Z7H1A3N6 | Aktiv: False
 SKYMONTH-W2UJC0C2 | Aktiv: False
 SKYMONTH-BJIRGZ6Y | Aktiv: False
 SKYMONTH-YRBZEL7D | Aktiv: False
-SKYMONTH-93EVAPRS | Aktiv: True | Bitmə tarixi: 25.11.2025
+SKYMONTH-93EVAPRS | Aktiv: False
 SKYMONTH-G0ARK2DY | Aktiv: False
