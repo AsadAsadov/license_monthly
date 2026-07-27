@@ -1,5 +1,5 @@
 # Monthly licenses — only SHA-256 hashes
-sha256:c7713f979f6065b5fcf7febfba0983c89a78bb5cf9b894a817e61de39df94b1b | Aktiv: True | Bitmə tarixi: 02.12.2025 | Son 4: L9V5
+sha256:c7713f979f6065b5fcf7febfba0983c89a78bb5cf9b894a817e61de39df94b1b | Aktiv: True | Bitmə tarixi: 04.11.2026 | Son 4: L9V5
 sha256:003d37f270cb24a5843e959163cd03a62b84d32d6723bf9b9dffad148773329e | Aktiv: True | Bitmə tarixi: 08.12.2025 | Son 4: P8H3
 sha256:5b3c73d2d391fd22ed31f69dd656d838c54da8166404966cad9a3b389bfb1600 | Aktiv: False | Son 4: T6Q8
 sha256:863d9cebc9c2189d9be0063d53b377db6abc11928041589d04a51a187af9b68e | Aktiv: False | Son 4: Q4L7
