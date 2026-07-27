@@ -1,47 +1,48 @@
-# Monthly licenses
-SKYMONTH-A6T3L9V5 | Aktiv: True | Bitmə tarixi: 02.12.2025
-SKYMONTH-A9N2P8H3 | Aktiv: True | Bitmə tarixi: 08.12.2025
-SKYMONTH-C1M7T6Q8 | Aktiv: False
-SKYMONTH-C8P6Q4L7 | Aktiv: False
-SKYMONTH-C9P4Q2L3 | Aktiv: False
-SKYMONTH-D2H8W7C1 | Aktiv: False
-SKYMONTH-D3K7W8T1 | Aktiv: False
-SKYMONTH-D7K8W5T6 | Aktiv: False
-SKYMONTH-DST7CVSQ | Aktiv: False
-SKYMONTH-E8K3W7P1 | Aktiv: False
-SKYMONTH-E9M5W7P4 | Aktiv: False
-SKYMONTH-FA6VD1MJ | Aktiv: False
-SKYMONTH-J4M2K8C1 | Aktiv: False
-SKYMONTH-J5M9K6C4 | Aktiv: False
-SKYMONTH-L3V6C5T9 | Aktiv: False
-SKYMONTH-L5P2N8Z4 | Aktiv: False
-SKYMONTH-L8P2N5Z7 | Aktiv: False
-SKYMONTH-M2R7Q1H8 | Aktiv: False
-SKYMONTH-M4Q7W1E5 | Aktiv: False
-SKYMONTH-M8R9Q5H2 | Aktiv: False
-SKYMONTH-P1G9C3Y6 | Aktiv: False
-SKYMONTH-P7J1K4G8 | Aktiv: False
-SKYMONTH-P9G4C6Y3 | Aktiv: False
-SKYMONTH-R1J3T9K8 | Aktiv: False
-SKYMONTH-R8J6T3K7 | Aktiv: False
-SKYMONTH-R9J4G5L2 | Aktiv: False
-SKYMONTH-T2V1R5Q6 | Aktiv: False
-SKYMONTH-T3V5R7Q8 | Aktiv: False
-SKYMONTH-TOUQ5000 | Aktiv: False
-SKYMONTH-U2P8L1E9 | Aktiv: False
-SKYMONTH-U5P9L7E3 | Aktiv: False
-SKYMONTH-V3N9H2E1 | Aktiv: False
-SKYMONTH-V4P3Z9E5 | Aktiv: False
-SKYMONTH-V5N1H9E2 | Aktiv: False
-SKYMONTH-X2R1V7M9 | Aktiv: False
-SKYMONTH-X5R9L2M6 | Aktiv: False
-SKYMONTH-X9R2V4M8 | Aktiv: False
-SKYMONTH-Y4C8M9T2 | Aktiv: False
-SKYMONTH-Y7C8M3T4 | Aktiv: False
-SKYMONTH-Z6H5A2N9 | Aktiv: False
-SKYMONTH-Z7H1A3N6 | Aktiv: False
-SKYMONTH-W2UJC0C2 | Aktiv: False
-SKYMONTH-BJIRGZ6Y | Aktiv: True | Bitmə tarixi: 14.12.2025
-SKYMONTH-YRBZEL7D | Aktiv: False
-SKYMONTH-93EVAPRS | Aktiv: True | Bitmə tarixi: 28.11.2025
-SKYMONTH-G0ARK2DY | Aktiv: False
+# Monthly licenses — only SHA-256 hashes
+sha256:c7713f979f6065b5fcf7febfba0983c89a78bb5cf9b894a817e61de39df94b1b | Aktiv: True | Bitmə tarixi: 02.12.2025 | Son 4: L9V5
+sha256:003d37f270cb24a5843e959163cd03a62b84d32d6723bf9b9dffad148773329e | Aktiv: True | Bitmə tarixi: 08.12.2025 | Son 4: P8H3
+sha256:5b3c73d2d391fd22ed31f69dd656d838c54da8166404966cad9a3b389bfb1600 | Aktiv: False | Son 4: T6Q8
+sha256:863d9cebc9c2189d9be0063d53b377db6abc11928041589d04a51a187af9b68e | Aktiv: False | Son 4: Q4L7
+sha256:1a6387dc39ff579f493e9e293a0df4caf76a62ac51bfed0795ab46278aa89016 | Aktiv: False | Son 4: Q2L3
+sha256:5a7d8885347ecc96c006cc1719ff3d72f287ffa444a091b3aececf7246642200 | Aktiv: False | Son 4: W7C1
+sha256:cb7e45db844aa469948f500de3cec606248741888ee0cfaba265f064a7baf04d | Aktiv: False | Son 4: W8T1
+sha256:ae83f8fafd5c9ac2fe79bda1a233135a74d8f98cc68b7335bf62639bb4347a63 | Aktiv: False | Son 4: W5T6
+sha256:4107a94c64fe3ffd7746f41bb1cc5bd44eebd2868f0672e5328df7a4237c7765 | Aktiv: False | Son 4: CVSQ
+sha256:c415545feff8b60d45ae8dd4c29bf89bf468f5f48da6d3a19887dcd9f690f412 | Aktiv: False | Son 4: W7P1
+sha256:f2b953a8dd673dc4519af7347d083e91c5c98bba2e1473ca3af075f0262c9087 | Aktiv: False | Son 4: W7P4
+sha256:a7ed24de60e7547832189f74f5596b0521189dcb80c0dbc1e12bd579f53d5863 | Aktiv: False | Son 4: D1MJ
+sha256:403591404c439d076bc343e8cbc6c9473379776fd5f4f9f810b8351c7c3f51f4 | Aktiv: False | Son 4: K8C1
+sha256:ecd98aace37936de06bb9792ad3ea33c9049c58de37c1dcfe040211465b21513 | Aktiv: False | Son 4: K6C4
+sha256:e0ee9eb85f2ebb4731b7257925220dff4ca3f876a857d7e1e5d3cdd348601e68 | Aktiv: False | Son 4: C5T9
+sha256:8ac8b4d12995d8490ead6e6bea261fa7f2cdd691996800d7e13713b5439c6736 | Aktiv: False | Son 4: N8Z4
+sha256:38a8c0d147fac2152a19e505d8b3de02c03547efbfa24e7ce37c10e7f44fd257 | Aktiv: False | Son 4: N5Z7
+sha256:a9c8acc05409ce95ead6b8fcf86bfb9589d60519089d1d4c1f6952f2f841550b | Aktiv: False | Son 4: Q1H8
+sha256:a29668a4540e6084c277696e60f4d87eeaaaaaae7aed22c63435488bede0f772 | Aktiv: False | Son 4: W1E5
+sha256:41fc599b908c165f3ddfbbc638f30d80683e6eb69b10ec0199694da6c8e1730a | Aktiv: False | Son 4: Q5H2
+sha256:8d3161367839592b38af85220637958aa1c03d09656ce9286d16771e3b57f0c7 | Aktiv: False | Son 4: C3Y6
+sha256:8456a85297fb3e8c9a4de24f24ba074bd2ab86737346473cfe900e464956e354 | Aktiv: False | Son 4: K4G8
+sha256:2d2e806846db54d737e30b88cf50ea05df70b8cc3f533d87ffd8c2854cd7bb0a | Aktiv: False | Son 4: C6Y3
+sha256:9d6d09aaca1947e9fc671a88cdf7a89fbf693c2fa3d2fd09fb7f10116812935f | Aktiv: False | Son 4: T9K8
+sha256:6d67a4492fe9ecac2e7fbdb335380c98b6b18c005f81665b9145339bf6e1411d | Aktiv: False | Son 4: T3K7
+sha256:5c4e2aff3c78ded03c1e2cf4ce9a949307ad75f8d31d9c2b96ce41a0dd3ad057 | Aktiv: False | Son 4: G5L2
+sha256:7a8d9b5bfee43ad94f7eb03ca036181ba15eb1a8f7225ddcef69623121ee9aaa | Aktiv: False | Son 4: R5Q6
+sha256:c79dea6d98cc51a82692d1c6b202ad27b1928e1eba77966aa463f6e95484328e | Aktiv: False | Son 4: R7Q8
+sha256:3d57eef493b1d0129a6f6dc1a82d0e58d2d965562297280beecbf08e90df9ff3 | Aktiv: False | Son 4: 5000
+sha256:b63dce676fe2bed8072f653b382b2bcc30bc2240e9efe6a740529d9487e8b345 | Aktiv: False | Son 4: L1E9
+sha256:311ae084b57bd06d1f89ec5a2e676ddf26ef5526ba3cda921bde79c8dc60d2fd | Aktiv: False | Son 4: L7E3
+sha256:0ce34e151359deff07a061b9da12087be8481b26661f02d604de8d8f6a2e7574 | Aktiv: False | Son 4: H2E1
+sha256:1a01c27ae9df9c22ec67d6131def5249ccf902934d15533fe1af11c3798f652e | Aktiv: False | Son 4: Z9E5
+sha256:2cd568e5e278e83a622ceb27cdaf08147371b57581826d0defcc0171c4ad7a7a | Aktiv: False | Son 4: H9E2
+sha256:68e1bd7ca4c71a56513050e3bcc234ae7a07deb216a24ec06699cd6d8431623a | Aktiv: False | Son 4: V7M9
+sha256:146cd5e8d49e65e3422005d6dbd0d2252526105e58d4c341525c8bbaf010c664 | Aktiv: False | Son 4: L2M6
+sha256:a18e2d2fce01d7e3a000adf941a423350b5929021da5695700e0b6eca4747006 | Aktiv: False | Son 4: V4M8
+sha256:3830996e90eb0936943dd505d13411374e4a66fd3b60f52acbec0fd3693e1c88 | Aktiv: False | Son 4: M9T2
+sha256:3e855fcac2da9c2debd2ecd718d59c7fe674f45e33d2d71f13cdee57cbe8808d | Aktiv: False | Son 4: M3T4
+sha256:618541c8f6828f352242995a5d8625e527480e53b584b51eabc317eaf9388a6b | Aktiv: False | Son 4: A2N9
+sha256:a724eaea509e66a326c9a749df4471bb28442a6384f82a24a063744effe5664e | Aktiv: False | Son 4: A3N6
+sha256:0e458bef9eb22f0b40db3faa6a30c2aa0bc19fe80faa13935e814c985d3fbf46 | Aktiv: False | Son 4: C0C2
+sha256:866fd531e59839a187e4df5f4d7e458a48aa4c3b2c23af77129620ac2f9059e0 | Aktiv: True | Bitmə tarixi: 14.12.2025 | Son 4: GZ6Y
+sha256:906cfd1f83fe8cb8d79d3cb25f6e91f9b5237160cc87b05859d9a0155d5d4c77 | Aktiv: False | Son 4: EL7D
+sha256:25abb4d588c500b53c7dddde1b0ea19641971434ec2989e03222ef1117e5c197 | Aktiv: True | Bitmə tarixi: 28.11.2025 | Son 4: APRS
+sha256:6ed6085b56e73da0216f89b1a6be0f486c4354796af89934478d9cecd6fac106 | Aktiv: False | Son 4: K2DY
+sha256:cdbf896b87bb85b40b41f8a3b8eed8a981e44f71101e24ba935008d7a8985c6f | Aktiv: True | Bitmə tarixi: 26.08.2026 | Əlaqə: asad | Son 4: MBPY
